@@ -13,3 +13,5 @@ Remi Geiger, Nicolas Mielec, Constance Poulain, August 2020
 
 2) code "cavity_2D_magnification.py" to produce fig 5 and 6
 
+
+doi: 10.5281/zenodo.4011610
